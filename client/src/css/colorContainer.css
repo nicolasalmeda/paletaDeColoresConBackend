@@ -1,0 +1,10 @@
+.ColorContainer{
+  display: flex;
+  flex-grow: 1;
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(243, 174, 174);
+}
+.containt{
+  width: 100vw;
+}
